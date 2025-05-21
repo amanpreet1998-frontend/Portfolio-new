@@ -15,6 +15,7 @@ export default defineConfig({
     // Add CSS specific settings
     cssCodeSplit: true,
     cssMinify: true
-  }
+  },
+  base: '/Portfolio-new/',
 })
 
