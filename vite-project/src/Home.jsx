@@ -18,8 +18,8 @@ const Home=()=>{
        <>
        
 
-  <div class="home flex"> 
-    <div class="home-col  mt-2">
+  <div className="home flex"> 
+    <div className="home-col mt-2">
       <div className='social-icons-home'>
 <Link to="https://instagram.com/amandhaliwal____"><img src='https://cdn-icons-png.flaticon.com/128/3670/3670274.png' alt="Instagram icon"/></Link>
 <Link to='https://profile.indeed.com/p/amanpreetk-hkrv8zn'><img src='https://cdn-icons-png.flaticon.com/128/1384/1384014.png' alt="Indeed icon"/></Link>
@@ -29,10 +29,10 @@ const Home=()=>{
 </div>
       <img data-aos="flip-left"
      data-aos-easing="ease-out-cubic"
-     data-aos-duration="2000"className='home-img' src='https://img.freepik.com/premium-vector/vector-illustration-programmer-flat-design-style_844724-3931.jpg?ga=GA1.1.316581448.1737552035&semt=ais_hybrid&w=740' alt='Programmer illustration'/>
+     data-aos-duration="2000" className='home-img' src='https://img.freepik.com/premium-vector/vector-illustration-programmer-flat-design-style_844724-3931.jpg?ga=GA1.1.316581448.1737552035&semt=ais_hybrid&w=740' alt='Programmer illustration'/>
 
     </div>
-    <div class="homee-col mt-2 ">
+    <div className="homee-col mt-2">
       <br/>
       <h3 className='home-h3'>Hii , I'm Amanpreet Kaur</h3>
       <h1 className='home-h1'>Frontend Developer</h1>
