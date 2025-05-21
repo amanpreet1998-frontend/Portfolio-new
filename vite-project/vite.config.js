@@ -8,10 +8,13 @@ export default defineConfig({
     environment: 'jsdom',
   },
   build: {
-    // Reduce complexity of the build
-    sourcemap: false,
-    // No minification for easier debugging
-    minify: false
+    // Enable sourcemaps for better debugging
+    sourcemap: true,
+    // Consistent minification settings
+    minify: 'esbuild',
+    // Add CSS specific settings
+    cssCodeSplit: true,
+    cssMinify: true
   }
 })
 

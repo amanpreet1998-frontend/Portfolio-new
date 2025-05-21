@@ -90,8 +90,8 @@ font-family: "Bangers", system-ui;
   
  }
  .navbar{
-  background-color:#64E2B7 ;
-  width:1690px;
+  background-color:#64E2B7;
+  width: 100%;
 }
 li{
  font-weight: 1000;
@@ -139,15 +139,15 @@ li{
 }
 @media(max-width:425px){
  .navbar{
-  background-color:#64E2B7 ;
-  width:1690px;
+  background-color:#64E2B7;
+  width: 100%;
   padding-right: 50px;
 }
 }
 @media(max-width:410px){
  .navbar{
-  background-color:#64E2B7 ;
-  width:1680px;
+  background-color:#64E2B7;
+  width: 100%;
   padding-right: 60px;
 }
 }
@@ -158,8 +158,8 @@ li{
   padding-right: 50px;
  }
  .navbar{
-  background-color:#64E2B7 ;
-  width:1595px;
+  background-color:#64E2B7;
+  width: 100%;
 }
 }
 @media(max-width:385px){
@@ -169,8 +169,8 @@ li{
   padding-right: 70px;
  }
  .navbar{
-  background-color:#64E2B7 ;
-  width:1530px;
+  background-color:#64E2B7;
+  width: 100%;
 }
 }
 @media(max-width:365px){
@@ -180,8 +180,8 @@ li{
   padding-right: 70px;
  }
  .navbar{
-  background-color:#64E2B7 ;
-  width:1450px;
+  background-color:#64E2B7;
+  width: 100%;
 }
 }
 @media(max-width:350px){
@@ -191,8 +191,8 @@ li{
   
  }
  .navbar{
-  background-color:#64E2B7 ;
-  width:1380px;
+  background-color:#64E2B7;
+  width: 100%;
 }
 }
 
