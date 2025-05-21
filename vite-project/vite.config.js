@@ -6,6 +6,12 @@ export default defineConfig({
   test: {
     globals: true,
     environment: 'jsdom',
+  },
+  build: {
+    // Reduce complexity of the build
+    sourcemap: false,
+    // No minification for easier debugging
+    minify: false
   }
 })
 
