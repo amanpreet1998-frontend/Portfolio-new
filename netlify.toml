@@ -1,7 +1,11 @@
 [build]
-  base = "vite-project/"
-  publish = "dist/"
-  command = "npm run build"
+  base = "vite-project"
+  publish = "dist"
+  command = "CI= npm run build"
+
+[build.environment]
+  NODE_VERSION = "16"
+  NPM_VERSION = "8"
 
 # Handle SPA routing
 [[redirects]]
