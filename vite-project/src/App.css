@@ -1,0 +1,201 @@
+/* .bg{
+    background-image: url('');
+width:220vh;
+height:85vh;
+ background-repeat: no-repeat;
+ background-size: 100% 100%;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Caveat:wght@400..700&family=Exile&family=Great+Vibes&family=Inconsolata:wght@200..900&family=Lilita+One&family=Lobster&family=Permanent+Marker&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Satisfy&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Agu+Display&family=Alfa+Slab+One&family=Bangers&family=Barriecito&family=Caveat:wght@400..700&family=Coral+Pixels&family=Exile&family=Great+Vibes&family=Inconsolata:wght@200..900&family=Lilita+One&family=Lobster&family=Permanent+Marker&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Satisfy&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Agu+Display&family=Alfa+Slab+One&family=Barriecito&family=Caveat:wght@400..700&family=Coral+Pixels&family=Exile&family=Great+Vibes&family=Inconsolata:wght@200..900&family=Lilita+One&family=Lobster&family=Permanent+Marker&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Satisfy&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Barriecito&family=Caveat:wght@400..700&family=Coral+Pixels&family=Exile&family=Great+Vibes&family=Inconsolata:wght@200..900&family=Lilita+One&family=Lobster&family=Permanent+Marker&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Satisfy&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Barriecito&family=Caveat:wght@400..700&family=Exile&family=Great+Vibes&family=Inconsolata:wght@200..900&family=Lilita+One&family=Lobster&family=Permanent+Marker&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Satisfy&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Caveat:wght@400..700&family=Exile&family=Great+Vibes&family=Inconsolata:wght@200..900&family=Lilita+One&family=Lobster&family=Permanent+Marker&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Satisfy&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Caveat:wght@400..700&family=Exile&family=Great+Vibes&family=Lilita+One&family=Lobster&family=Permanent+Marker&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Satisfy&display=swap');
+/* .about h1{
+  font-family: "Exile", system-ui;
+  font-weight: 400;
+  font-style: normal;
+} */
+ .navbar-brand{
+  font-family: "Agu Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 0;
+}
+ .about h1 {
+  font-family: "Barriecito", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.text-box h2{
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.skill h1 {
+  font-family: "Barriecito", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.skill p {
+ font-family: "Satisfy", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+}
+.skill1 h5{
+font-family: "Bangers", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.skill2 h5{
+font-family: "Bangers", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.project h1,h2 {
+  font-family: "Barriecito", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.contact h1{
+  font-family: "Agu Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 0;
+}
+.contact-container h4{
+  font-family: "Satisfy", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+}
+
+
+ /*navbar*/
+ .navbar-brand{
+  font-size: 50px;
+  margin-left: 100px;
+  
+ }
+ .navbar{
+  background-color:#64E2B7 ;
+  width:1690px;
+}
+li{
+ font-weight: 1000;
+ font-size:larger;
+}
+.navbar-brand{
+ color: black;
+ 
+  overflow: hidden;  
+  border-right: .1em solid rgb(3, 3, 3); 
+  white-space: nowrap;  
+  margin-left: 100px; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .1em; /* Adjust as needed */
+  animation: 
+    typing2 5.5s steps(20, end),
+    blink-caret2 .5s step-end infinite;
+}
+@keyframes typing2 {
+  from { width: 0 }
+  to { width: 100% }
+}
+@keyframes blink-caret2 {
+  from, to { border-color: transparent }
+  100% { border-color: rgb(6, 6, 6) }
+}
+.navbar .nav-link {
+  position: relative;
+  text-decoration: none;
+}
+
+.navbar .nav-link::before {
+  content: '';
+  position: absolute;
+  width: 0px;
+  height: 15px;
+  bottom: 0px;
+  left: 0;
+  background-color: #FFB8E0; /* Change to your desired color */
+  transition: width 0.3s ease;
+}
+
+.navbar .nav-link:hover::before {
+  width: 100%;
+  
+}
+@media(max-width:425px){
+ .navbar{
+  background-color:#64E2B7 ;
+  width:1690px;
+  padding-right: 50px;
+}
+}
+@media(max-width:410px){
+ .navbar{
+  background-color:#64E2B7 ;
+  width:1680px;
+  padding-right: 60px;
+}
+}
+@media(max-width:400px){
+  .navbar-brand{
+  font-size: 50px;
+  margin-left: 100px;
+  padding-right: 50px;
+ }
+ .navbar{
+  background-color:#64E2B7 ;
+  width:1595px;
+}
+}
+@media(max-width:385px){
+  .navbar-brand{
+  font-size: 50px;
+  margin-left: 100px;
+  padding-right: 70px;
+ }
+ .navbar{
+  background-color:#64E2B7 ;
+  width:1530px;
+}
+}
+@media(max-width:365px){
+  .navbar-brand{
+  font-size: 50px;
+  margin-left: 100px;
+  padding-right: 70px;
+ }
+ .navbar{
+  background-color:#64E2B7 ;
+  width:1450px;
+}
+}
+@media(max-width:350px){
+  .navbar-brand{
+  font-size: 50px;
+  margin-left: 100px;
+  
+ }
+ .navbar{
+  background-color:#64E2B7 ;
+  width:1380px;
+}
+}
+
+
+
+
